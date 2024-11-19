@@ -23,8 +23,8 @@ export default defineConfigWithTheme<ThemeConfig>({
       {
         text: 'Examples',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Hidrocarbonetos', link: '/hidrocarbonetos' },
+          { text: 'Github Profile', link: 'https://github.com/marlonwq' }
         ]
       }
     ],
