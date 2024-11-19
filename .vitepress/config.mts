@@ -4,8 +4,8 @@ import baseConfig from 'vitepress-carbon/config'
 
 export default defineConfigWithTheme<ThemeConfig>({
   extends: baseConfig,
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "Studies",
+  description: "Site",
   srcDir: 'src',
   base: '/testeab/',
 
@@ -21,7 +21,7 @@ export default defineConfigWithTheme<ThemeConfig>({
     
     sidebar: [
       {
-        text: 'Examples',
+        text: 'cgvn',
         items: [
           { text: 'Hidrocarbonetos', link: '/hidrocarbonetos' },
           { text: 'Github Profile', link: 'https://github.com/marlonwq' }
