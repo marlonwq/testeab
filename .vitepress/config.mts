@@ -8,7 +8,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   title: "My Awesome Project",
   description: "A VitePress Site",
   srcDir: 'src',
-  //base: '/vitepress-carbon-template/', if running on github-pages, set repository name here
+  base: '/testeab/', if running on github-pages, set repository name here
 
   themeConfig: {
     https://testeab/reference/default-theme-config
