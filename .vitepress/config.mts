@@ -8,7 +8,7 @@ export default defineConfigWithTheme<ThemeConfig>({
   title: "My Awesome Project",
   description: "A VitePress Site",
   srcDir: 'src',
-  base: '/testeab/'
+  base: '/testeab/',
 
   themeConfig: {
     https://testeab/reference/default-theme-config
