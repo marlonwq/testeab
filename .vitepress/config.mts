@@ -11,8 +11,8 @@ export default defineConfigWithTheme<ThemeConfig>({
 
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'dfadfafa', link: 'https://discord.com' },
+      { text: 'teste', link: '/hidrocarbonetos' }
     ],
 
     search: {
